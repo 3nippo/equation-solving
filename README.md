@@ -1,6 +1,6 @@
 # equation-solving
 
-This is my course work from second semester. I restored it from report screenshots (because i lost source code) and improved structure and logic of code.
+This is my course work from second semester. I restored it from report screenshots (because i lost source code) and improved structure and logic of the code.
 
 What is this code about?
 
