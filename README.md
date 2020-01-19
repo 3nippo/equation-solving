@@ -1,0 +1,2 @@
+# equation-solving
+Haskell --- сила
