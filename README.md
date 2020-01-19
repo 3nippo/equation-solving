@@ -4,7 +4,7 @@ This is my course work from second semester. I restored it from report screensho
 
 What is this code about?
 
-I was given two equations and it's slutions on the given segments. I had to implement 3 different numerical methods of solving equations and compare my results with the given answers:
+I was given two equations and it's solutions on the given segments. I had to implement 3 different numerical methods of solving equations and compare my results with the given answers:
 
 ```
 1) Dichotomy
